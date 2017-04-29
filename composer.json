@@ -1,6 +1,6 @@
 {
-	"name": "ringo-project/socialite",
-	"description": "laravel/socialite拡張",
+	"name": "naoy/socialite",
+	"description": "laravel/socialiteiの拡張",
 	"license": "MIT",
 	"require": {
 		"laravel/socialite": "^3.0"
