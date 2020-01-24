@@ -1,3 +1,3 @@
 # naoyu/socialite
 
-* ringo-project/socialiteのpackagist用（laravel/socialite ^3.0）
+* ringo-project/socialiteのpackagist用（laravel/socialite ^4.3）
